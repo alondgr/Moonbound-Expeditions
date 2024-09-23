@@ -1,0 +1,40 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  background: url(/marcus-dall-col-RDt7anjZHro-unsplash.jpg) no-repeat center
+    center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.container-lg {
+  color: #e2dbdb;
+  font-size: 1.5em;
+}
+
+h1 {
+  font-size: 3rem;
+  color: #e2dbdb;
+}
+
+hr {
+  margin: 20px auto;
+  color: #574f4e;
+  border: 3px solid #574f4e;
+  max-width: 25%;
+  opacity: 1;
+}
+.btn {
+  padding: 1rem 2rem;
+  font-weight: 700;
+  border-radius: 30px;
+  text-transform: uppercase;
+  background-color: #746767;
+}
+
+.buffer {
+  height: 6rem;
+}
